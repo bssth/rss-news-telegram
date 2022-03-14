@@ -1,0 +1,4 @@
+https://habr.com/ru/rss/best/daily/?fl=ru
+https://zona.media/rss
+https://roskomsvoboda.org/feed/
+https://meduza.io/rss2/all
